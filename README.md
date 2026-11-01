@@ -40,7 +40,7 @@ sessions; this folder is the memory, so read it directly — nothing to paste.
    English.
 6. **Draft it in WhatsApp** to Kamal (below). Send only after the user says
    send, and confirm it shows Delivered.
-7. **Commit** — `git add -A && git commit`. There's no remote.
+7. **Commit and push** — `git add -A && git commit && git push`. Remote is the private repo `kowshiksiva5/meal-planner`.
 
 ## Once the week is done
 
