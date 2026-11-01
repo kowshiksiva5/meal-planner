@@ -2,14 +2,15 @@
 
 | Day | Dry | Wet | Base | Status |
 |---|---|---|---|---|
-| Mon | | | White rice | planned |
-| Tue | | | White rice | planned |
-| Wed | | | White rice | planned |
-| Thu | | | White rice | planned |
-| Fri | Egg bhurji | | Chapathi | planned |
-| Sat | Chicken fry | Chicken curry (tight) | Bagara rice | planned |
+| Mon | | | Rice + roti | planned |
+| Tue | | | Rice + roti | planned |
+| Wed | | | Rice + roti | planned |
+| Thu | | | Rice + roti | planned |
+| Fri | Egg bhurji | Paneer butter masala | Rice + roti | planned |
+| Sat | Andhra chicken fry | — | Bagara rice + roti | planned |
 
-Ghee roast + majjiga charu go on Wed or Thu.
+Chicken ghee roast alone, with bagara rice and no roti, goes on Wed or Thu.
+Chicken is about 2:1 bone-in to boneless on both days.
 
 ## Notes
 
@@ -19,4 +20,6 @@ Ghee roast + majjiga charu go on Wed or Thu.
 
 **Dry** —
 
-**Wet** —
+**Wet (works with roti)** —
+
+**Wet (rice mainly)** —
